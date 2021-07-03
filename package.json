@@ -1,0 +1,24 @@
+{
+  "name": "code-challenge-excel",
+  "version": "1.0.0",
+  "description": "Coding challenge for WhiteBox",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDMazzullo/code-challenge-excel.git"
+  },
+  "author": "Michael Mazzullo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MDMazzullo/code-challenge-excel/issues"
+  },
+  "homepage": "https://github.com/MDMazzullo/code-challenge-excel#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "exceljs": "^4.2.1",
+    "mysql2": "^2.2.5"
+  }
+}
